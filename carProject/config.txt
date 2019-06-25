@@ -1,0 +1,4 @@
+LocalPicStrategy
+ContourIdentyStrategy
+HoughSegStrategy
+OCRStrategy
